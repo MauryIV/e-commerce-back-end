@@ -1,19 +1,70 @@
-User Story
+<a id="title"></a>
+# E-Commerce Back-end 
 
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+<a id="description"></a>
+## Description
+This project can manipulate a database using api routes.
 
-Acceptance Criteria
+## Table of Contents
+- [Title](#title)
+- [Description](#description)
+- [Badges](#badges)
+- [Visuals](#visuals)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Authors and Acknowledgment](#acknowledgment)
+- [License](#license)
+- [Project Status](#status)
 
-GIVEN a functional Express.js API
-WHEN I add my database name, PostgreSQL username, and PostgreSQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the PostgreSQL database
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete data in my database
+<a id="badges"></a>
+## Badges
+![Maury Hughes IV](https://img.shields.io/badge/Maury%20Hughes%20IV-5A2BE2)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+<a id="installation"></a>
+## Installation
+User would need to run npm i to install everything listed in package.json. Would also need postgreSQL for the database.
+
+<a id="usage"></a>
+## Usage
+This code would be good for products held in a database. Making it easy to keep track of what the user has for inventory and stock. This is just the backend though so will need to incorporate a UI.
+
+<a id="Visuals"></a>
+## Visuals
+NA
+
+<a id="tests"></a>
+## Tests
+I tested the code in Insomnia on local server 3001. Will need Insomnia or something like that in order to run ones own tests.
+
+<a id="questions"></a>
+## Questions
+If you have any questions about the contents. Please feel free to reach out!
+Here is my [Github](https://github.com/MauryIV) as well as my email <mauryhughesiv@gmail.com>.
+
+<a id="roadmap"></a>
+## Roadmap
+I'd eventually like to be able to take this and add a UI to make it more user friendly.
+
+<a id="contributing"></a>
+## Contributing
+Always open for contributions. Love to improve on my code and see other perspectives. Feel free to reach out!
+
+<a id="acknowledgment"></a>
+## Authors and Acknowledgment
+Base code listed in init commit is all form DU bootcamp, as well as the knowledge to complete the assignment.
+
+<a id="license"></a>
+## License
+MIT License © 2024 Maury Hughes IV
+Please refer to this link, [License: MIT](https://opensource.org/licenses/MIT) for more information.
+
+<a id="status"></a>
+## Project Status
+Complete, for now.
+
+[back to top](#title)
