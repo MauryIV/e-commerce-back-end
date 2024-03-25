@@ -35,7 +35,7 @@ This code would be good for products held in a database. Making it easy to keep 
 
 <a id="Visuals"></a>
 ## Visuals
-NA
+[Video Walkthrough](https://drive.google.com/file/d/1XRZZn9ZiE4jWPWkPWgrQLRVeLuvpUZeT/view)
 
 <a id="tests"></a>
 ## Tests
